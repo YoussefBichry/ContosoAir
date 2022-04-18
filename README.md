@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/BICHRYYOUSSEF/BICHRY_YOUSSEF/_apis/build/status/YoussefBichry.ContosoAir%20(2)?branchName=master)](https://dev.azure.com/BICHRYYOUSSEF/BICHRY_YOUSSEF/_build/latest?definitionId=5&branchName=master)
 
 # Microsoft.Github CI Demo
 
